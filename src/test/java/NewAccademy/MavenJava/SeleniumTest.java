@@ -33,4 +33,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Enter Browser Name develop");
 	}
+	
+	public void Browserrdevelop()
+	{
+		System.out.println("Enter Browser Name developcal");
+	}
 }
