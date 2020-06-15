@@ -15,4 +15,17 @@ public class SeleniumTest {
 	{
 		System.out.println("HAi");
 	}
+	
+	@Test
+	public void Browser2()
+	{
+		System.out.println("Enter Browser Name2	");
+		
+	}
+	
+	@Test
+	public void Browserr()
+	{
+		System.out.println("Enter Browser Namet");
+	}
 }
