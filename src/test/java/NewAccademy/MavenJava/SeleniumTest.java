@@ -28,4 +28,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Enter Browser Namet");
 	}
+	
+	public void Browserrdevelo()
+	{
+		System.out.println("Enter Browser Name develop");
+	}
 }
