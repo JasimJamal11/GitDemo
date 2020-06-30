@@ -38,4 +38,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Enter Browser Name developcal");
 	}
+	
+	public void Browserrdevelopnewdate()
+	{
+		System.out.println("Enter Browser Name developcalnewdate");
+	}
 }
